@@ -1,0 +1,43 @@
+.titulo {
+    text-align: center;
+    color: green;
+}
+.titulo#arriba{
+    letter-spacing: 0.3em;
+    font-family:'Courier New';
+}
+.titulo#abajo {
+    font-family: Arial;
+}
+.container {
+    display: flex;
+    height: 300px;
+    margin: 0 auto;
+    padding-right: 10px;
+  }
+  
+  .aboutme {
+    color: green;
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 0.8;
+    margin-right: 10px; 
+    padding: 5px;
+    margin-bottom: 50px;
+  }
+  
+  img {
+    margin-right: 10px; 
+  }  
+
+body{
+    background-color: #E5FFED;
+}
+
+.footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    text-align: end;
+    padding-top: 50px;
+}
+
